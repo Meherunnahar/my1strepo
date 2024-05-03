@@ -4,4 +4,6 @@ A line I wrote on my local computer
 I add a line as my firsst edit to READMEe file  
 Rstudio
 
+i add this line from r studio
+
 
